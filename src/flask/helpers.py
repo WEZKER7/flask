@@ -2,6 +2,7 @@ import os
 import pkgutil
 import socket
 import sys
+import requests
 import typing as t
 from datetime import datetime
 from functools import lru_cache
